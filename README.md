@@ -1,1 +1,4 @@
-# three_row.flightking.github.io
+# Bejeweled
+Реализация Bejeweled на JavaScript
+
+![Screen 1](images/welcome.png)
