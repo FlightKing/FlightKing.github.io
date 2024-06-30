@@ -8,7 +8,7 @@ let config = {
   offsetBorder: 10,
   borderRadius: 8,
 
-  gemSize: 64,
+  gemSize: 54,
 
   imagesCoin: [
     "images/coin/coin_1.png",
